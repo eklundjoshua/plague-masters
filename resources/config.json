@@ -1,0 +1,14 @@
+﻿{
+  "Host": "na1.hosting.freemmorpgmaker.com",
+  "Port": 5849,
+  "GameFont": "sourcesansproblack",
+  "EntityNameFont": "sourcesansproblack",
+  "ChatBubbleFont": "sourcesansproblack",
+  "ActionMsgFont": "sourcesansproblack",
+  "UIFont": "sourcesanspro,8",
+  "ChatLines": 100,
+  "MenuMusic": "RPG-Theme_v001_Looping.ogg",
+  "MenuBackground": "background.png",
+  "IntroImages": [],
+  "UpdateUrl": ""
+}

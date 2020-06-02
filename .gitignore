@@ -1,0 +1,9 @@
+logs/*
+Intersect Client.exe
+Intersect Client.pdb
+Intersect Editor.exe
+Intersect Editor.pdb
+MonoGame.Framework.Client.dll
+SDL2.dll
+soft_oal.dll
+sqlite3.dll
